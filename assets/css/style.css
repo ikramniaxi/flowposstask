@@ -1,0 +1,275 @@
+ .flowlogo{
+    width: 120px !important;
+ }
+ .rejbtn{
+    background: #2B788B !important;
+    color: #FFF !important;
+    font-family: Montserrat !important;
+ }
+ .burgerimg img{
+    width: 80% !important;
+    margin-right: 150px !important;
+ }
+ .zacbtn{
+    color: #2B788B !important;
+font-family: Montserrat !important;
+background: var(--primaty-cyan-light, #C3DCE3) !important;
+border-radius: 13px !important;
+ 
+ }
+ .h2text{
+    color: var(--primaty-black, #000) !important;
+/* Headings/Heading 1 */
+font-family: Dela Gothic One !important; 
+ }
+ .burgertxpara{
+    color: var(--primaty-grey-dark, #757575) !important;
+/* Text/Body 1 */
+font-family: Montserrat !important;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 140%;
+letter-spacing: -0.72px;
+ }
+ .boxone{
+    background: var(--primaty-grey-light, #F6F5F4) !important;
+    /* width: 100% !important;  */
+ }
+ .imgagesback{
+    background: var(--primaty-grey-light, #F6F5F4) !important;
+    border-radius: 20px !important;
+    height: 90.612px !important;
+    /* position: absolute !important;
+   top: 420px;
+   left: 300px;
+   z-index: 2; */
+   margin-top: -20px;
+    /* width: 100%; */
+    z-index: 100000;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+
+ 
+ .golvoimg{
+    height: 100px !important;
+    width: 100px !important;
+ }
+ 
+.woltimg {
+    margin-top: 14px !important;
+    height: 25px !important;
+        width: 80px !important;
+    
+ }
+ 
+.pyszneimg {
+    height: 106px !important;
+    width: 185px !important;
+ }
+ .uberimg{
+    margin-top: 4px !important;
+    height: 30px;
+    width: 125px !important;
+ }
+ .panelimage{
+   margin-right: 60px !important;
+    width: 47% !important;
+    /* margin-left: 290px !important; */
+ }
+ .panelimagetwo{
+    width: 60% !important;
+    /* margin-bottom: 15px !important; */
+    /* margin-left: 290px !important; */
+ }
+ .panelimagethree{
+   width: 70% !important;
+ }
+ .panelhead{
+    color: var(--primaty-black, #000) !important;
+/* Headings/Heading 2 */
+font-family: Dela Gothic One !important;
+font-size: 30px !important;
+font-style: normal !important;
+font-weight: 400 !important;
+letter-spacing: -1.92px !important;
+ }
+ /* .panelheadtwo{
+    color: var(--primaty-black, #000) !important;
+ 
+font-family: Dela Gothic One !important;
+font-size: 30px !important;
+font-style: normal !important;
+font-weight: 400 !important;
+letter-spacing: -1.92px !important;
+width: 65% !important;
+ } */
+ 
+ .dot {
+    width: 8px;
+    height: 8px;
+    background-color: black;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  .paneltwo{
+    background: var(--primaty-grey-light, #F6F5F4) !important;
+  }
+  .headingtwo{
+   color: var(--primaty-black, #000) !important;
+
+/* Headings/Heading 1 */
+font-family: Dela Gothic One !important;
+font-size: 40px !important;
+font-style: normal !important;
+font-weight: 400 !important;
+line-height: 120%;
+letter-spacing: -2.24px;
+  }
+  .bone{
+   border-radius: 100px !important;
+   color: white !important;
+background: var(--primaty-cyan-dark, #2B788B) !important;
+  }
+  .btwo{
+   width: 100px !important;
+   color: white !important;
+   background: #BABABA !important;
+   border-radius: 100px !important;
+   border-right: none !important;
+  }
+ .bottombtn{
+   background: #BABABA !important;
+   border-radius: 100px;
+ }
+  .bronze{
+   color: #000 !important;
+
+/* Headings/Heading 1 */
+font-family: Dela Gothic One !important;
+font-size: 50px !important;
+font-style: normal !important;
+font-weight: 400 !important;
+line-height: 120% !important;
+letter-spacing: -2.24px !important;
+  }
+  .pricebtn{
+   border-radius: 20px !important;
+border: 0.5px solid #858BA0 !important;
+  }
+  .secondcol{
+   color: #252430;
+font-family: Montserrat;
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+/* line-height: normal; */
+  }
+  .colbtn{
+   color: white !important;
+   border-radius: 100px;
+background: var(--primaty-cyan-dark, #2B788B) !important;
+  }
+  .tablecontainer{
+   width: 65% !important;
+  }
+  .coltwopara{
+   /* line-height: 0; */
+   font-size: 13px;
+  }
+  .coltwop{
+   line-height: 0;
+  }
+  .ticicon{
+   /* margin-left: 93px ; */
+/* 
+   display: flex;
+   justify-content: center;
+   align-items: center; */
+   width: 15px !important;
+  }
+  .crosicon{
+   /* margin-left: 93px ; */
+   width: 16px !important;
+  }
+  .lastbtns{
+   background-color: #2B788B !important;
+   color: white !important;
+   border-radius: 30px;
+  }
+  .lastlinks{
+ 
+color: var(--primaty-grey-dark, #757575) ;
+font-family: Montserrat !important;
+font-size: 14px !important;
+font-style: normal !important;
+font-weight: 600;
+line-height: 100%;
+border: none !important;
+text-decoration: none !important;
+  }
+  .footerbackground{
+   background-color:#BABABA !important; 
+   margin-top: 150px !important;
+  }
+  /* .pannelfour{
+   margin-left: 250px !important;
+  } */
+
+
+/* media queriees  -------------------------------------------------------------------------*/
+
+ @media screen and (max-width: 998px) {
+     .burgerimg img{
+        width: 70% !important;
+        margin-right: 150px !important;
+     }
+    }
+ @media screen and (max-width: 1020px) {
+    .imgagesback{
+        display: flex !important;
+        width: 100% !important;
+        justify-content: center;
+        /* flex-direction: row; */
+    }
+  }
+ @media screen and (max-width: 530px) {
+    .imgagesback{
+        display: flex !important;
+        width: 100% !important;
+        justify-content: center;
+        margin-top: 0px !important;
+        height: 140px !important;
+        /* flex-direction: row; */
+    }
+    .footerlabels{
+      display: flex;
+      flex-direction: column !important;
+   }
+  }
+ @media screen and (max-width: 790px) {
+    .burgerbox{
+        display: flex;
+        flex-direction: column !important;
+    }
+   
+      
+    .burgertxt{
+        flex-direction: column !important;
+        display: flex;
+        justify-content: start !important;
+         margin-left: 10px !important;
+     }
+     .burgerimg img {
+        width: 100% !important;
+        /* margin-right: 150px !important; */
+        /* position: fixed !important; */
+     }
+ }
+ /* @media screen and(max-width:500px) {
+   .footerlabels{
+      display: flex;
+      flex-direction: column !important;
+   }
+   
+ } */
